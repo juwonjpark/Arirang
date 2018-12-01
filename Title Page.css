@@ -1,0 +1,190 @@
+body { 
+Background: url(background3.jpg) top left;
+background-repeat: no-repeat;
+background-size: cover;
+Background-attachment: fixed;
+}
+
+@font-face {
+	font-family: 'Nanum Brush Script';
+	src: url('Nanum.ttf');
+}
+
+h1  {
+font-family: Nanum Brush Script;
+font-size: 90px;
+font color: black;
+margin:0px;
+padding:0px;
+text-align: center;
+} 
+
+h2  {
+font-family: Nanum Brush Script;
+font-size: 37px;
+font color: black;
+margin:0px;
+padding:0px;
+font-weight: lighter; 
+text-align: center;
+} 
+
+h3  {
+font-family: Nanum Gothic, sans-serif;
+font-size: 25px;
+font color: black;
+margin:0px;
+padding:0px;
+font-weight: lighter; 
+text-align: center;
+} 
+
+h4  {
+font-family: Nanum Brush Script;
+font-size: 50px;
+font color: black;
+margin:0px;
+padding:0px;
+font-weight: lighter; 
+text-align: center;
+} 
+
+h5  {
+font-family: Nanum Gothic, sans-serif;
+font-size: 15px;
+font color: black;
+margin:0px;
+padding:0px;
+font-weight: lighter; 
+text-align: center;
+} 
+
+
+
+#box1 { 
+	background: #b4b4b4;
+	height: 700px;
+	width: 1280px;
+	top: 0px;
+	left: 0px;
+	opacity: 0.5;
+	position: absolute;
+}
+
+#box2 { 
+	background: #FFFFFF;
+	height: 100px;
+	width: 500px;
+	top: 300px;
+	left: 390px;
+	position: absolute;
+}
+
+#box3 { 
+	background: #FFFFFF;
+	height: 40px;
+	width: 500px;
+	top: 410px;
+	left: 390px;
+	position: absolute;
+}
+
+#box4 { 
+	background: #FFFFFF;
+	height: 56px;
+	width: 974px;
+	top: 470px;
+	left: 140px;
+	position: absolute;
+}
+	
+#Menu {
+	background: #FFFFFF;
+	width: 974px;
+	height: 56px;
+	top: 470px;
+	left: 140px;
+	position: absolute; 
+	display: inline;
+	}
+
+	ul {
+		list-style-type: none;
+  	 	margin: 0;
+  	  	padding: 0;
+    	overflow: hidden;
+   	 	background-color: #FFFFFF;
+	}
+
+	li {
+    	float: left;
+}
+
+	li a {
+    	display: block;
+    	color: black;
+    	text-align: center;
+    	padding: 20px 45px;
+    	text-decoration: none;
+    	font-family: Nanum Gothic, sans-serif;
+	}
+
+	li a:hover {
+    	background-color: #DDDDDD;
+	}
+
+
+#box5 { 
+	background: #EF7171;
+	height: 20px;
+	width: 640px;
+	top: 670px;
+	left: 0px;
+	position: absolute;
+}
+
+#box6 { 
+	background: #5B8DEA;
+	height: 20px;
+	width: 640px;
+	top: 670px;
+	left: 640px;
+	position: absolute;
+}
+
+#box7 { 
+	background: #FFFFFF;
+	height: 300px;
+	width: 1280px;
+	top: 690px;
+	left: 0px;
+	position: absolute;
+}
+
+#box8 { 
+	background: #EF7171;
+	height: 20px;
+	width: 640px;
+	top: 990px;
+	left: 0px;
+	position: absolute;
+}
+
+#box9 { 
+	background: #5B8DEA;
+	height: 20px;
+	width: 640px;
+	top: 990px;
+	left: 640px;
+	position: absolute;
+}
+
+#box10 { 
+	background: #b4b4b4;
+	height: 100px;
+	width: 1280px;
+	top: 1010px;
+	left: 0px;
+	position: absolute;
+}
+

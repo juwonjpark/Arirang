@@ -1,0 +1,197 @@
+@font-face {
+	font-family: 'Nanum Brush Script';
+	src: url('Nanum.ttf');
+}
+
+h1  {
+font-family: Nanum Brush Script;
+font-size: 90px;
+font color: black;
+margin:0px;
+padding:0px;
+font-weight: lighter; 
+text-align: center;
+} 
+
+h2  {
+font-family: Nanum Gothic, sans-serif;
+font-size: 50px;
+font color: black;
+margin:0px;
+padding:0px;
+font-weight: lighter; 
+text-align: center;
+} 
+
+
+h5  {
+font-family: Nanum Gothic, sans-serif;
+font-size: 15px;
+font color: black;
+margin:0px;
+padding:0px;
+font-weight: lighter; 
+text-align: center;
+} 
+
+h6  {
+font-family: Nanum Gothic, sans-serif;
+font-size: 24px;
+font color: black;
+margin:0px;
+padding:0px;
+font-weight: lighter; 
+text-align: left;
+line-height: 1.8;
+} 
+
+#box1 { 
+	background: #b4b4b4;
+	height: 1000px;
+	width: 1280px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+#box1-1 { 
+	background: #b4b4b4;
+	height: 810px;
+	width: 1280px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+#Menu {
+	background: #FFFFFF;
+	width: 974px;
+	height: 40px;
+	top: 120px;
+	left: 140px;
+	position: absolute; 
+	display: inline;
+	}
+
+	ul {
+		list-style-type: none;
+  	 	margin: 0;
+  	  	padding: 0;
+    	overflow: hidden;
+   	 	background-color: #FFFFFF;
+	}
+
+	li {
+    	float: left;
+}
+
+	li a {
+    	display: block;
+    	color: black;
+    	text-align: center;
+    	padding: 20px 45px;
+    	text-decoration: none;
+    	font-family: Nanum Gothic, sans-serif;
+	}
+
+	li a:hover {
+    	background-color: #DDDDDD;
+	}
+	
+#box2 {
+	height: 75px;
+	width: 75px;
+	top: 20px;
+	left: 1170px;
+	position: absolute;
+}
+
+
+#box3 { 
+	background: #272727;
+	height: 2px;
+	width: 800px;
+	top: 280px;
+	left: 240px;
+	position: absolute;
+}
+
+#box4 {
+	height: 30px;
+	width: 200px;
+	top: 20px;
+	left: 0px;
+	position: absolute;
+}
+
+#box5 {
+	height: 500px;
+	width: 1000px;
+	top: 320px;
+	left: 140px;
+	position: absolute;
+}
+
+#box6 {
+	height: 300px;
+	width: 1000px;
+	top: 320px;
+	left: 140px;
+	position: absolute;
+}
+
+#box8 { 
+	background: #EF7171;
+	height: 20px;
+	width: 640px;
+	top: 990px;
+	left: 0px;
+	position: absolute;
+}
+
+#box9 { 
+	background: #5B8DEA;
+	height: 20px;
+	width: 640px;
+	top: 990px;
+	left: 640px;
+	position: absolute;
+}
+
+#box10 { 
+	background: #b4b4b4;
+	height: 100px;
+	width: 1280px;
+	top: 1010px;
+	left: 0px;
+	position: absolute;
+}
+
+#box8-1 { 
+	background: #EF7171;
+	height: 20px;
+	width: 640px;
+	top: 690px;
+	left: 0px;
+	position: absolute;
+}
+
+#box9-1 { 
+	background: #5B8DEA;
+	height: 20px;
+	width: 640px;
+	top: 690px;
+	left: 640px;
+	position: absolute;
+}
+
+#box10-1 { 
+	background: #b4b4b4;
+	height: 100px;
+	width: 1280px;
+	top: 710px;
+	left: 0px;
+	position: absolute;
+}
+
+
